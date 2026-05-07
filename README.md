@@ -196,5 +196,5 @@ BSD License (see package.xml files)
 
 ## Author
 
-Kerolus (kerolus@example.com)</content>
-<parameter name="filePath">/media/kerolus/AE8E0FBF8E0F7F59/Ubinto/hand/src/README.md
+Kerolus Hany
+
